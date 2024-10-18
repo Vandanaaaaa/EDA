@@ -124,5 +124,3 @@ The key findings and insights from the analysis will be documented here:
 
 ## Contributing
 Contributions are welcome! If you'd like to improve the project, feel free to fork the repository and submit a pull request.
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
